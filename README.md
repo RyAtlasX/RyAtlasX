@@ -27,5 +27,5 @@ Some exploits are in the form of programs or injectable DLL files, which explici
 A client-side exploit is an exploit that only you can see the script that you execute if you execute Print ("something you want") or execute a Require script and then you open the Developer Console you can only see the Output is nil and error because these script cannot be called by a cilent.
 
 # What is serverside?
-A server-side is an exploit when you execute the script Print ("Txts or something you want to type in") in the executor everyone can see the print you just execute on the Developer Console (that also mean you can execute Require script on yourself or the other player).
+A server-side is an exploit when you execute the script Print ("Txts or something you want to type in") in the executor everyone can see the print you just execute on the Developer Console (that also mean you can execute Require scripts on yourself or the other players).
 # Wrote By 𝓡𝔂
