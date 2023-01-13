@@ -12,9 +12,7 @@ https://www.facebook.com/profile.php?id=100086736693864
 https://www.roblox.com/users/2293855847/profile
 
 # Atlas x team
-https://dsc.gg/atlasx
-
-# Atlas is still in Development 
+https://dsc.gg/atlasx 
  # FAQ'S :
 # What is Atlas X?
 Atlas is an serverside exploit only work for Roblox.
