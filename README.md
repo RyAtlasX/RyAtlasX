@@ -1,4 +1,4 @@
-<h1> About me!!!!
+<h1> About me!!!! (Random stupid mf and don't even know how to script.)
 
 ### Discord
 Ry0511#4139
