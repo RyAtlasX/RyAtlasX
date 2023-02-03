@@ -1,4 +1,5 @@
 <h1> About me!!!!
+
 ### Discord
 Ry0511#4139
 
@@ -14,7 +15,8 @@ https://www.roblox.com/users/2293855847/profile
 ### Atlas x team
 https://dsc.gg/atlasx
  
- <h1> Roblox Exploits:
+ <h1> Roblox Exploits / Atlas FAQ's:
+ 
 ### What is Atlas X?
 Atlas is an serverside exploit only work for Roblox.
 
